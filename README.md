@@ -15,21 +15,21 @@ Hi! I'm Jekaiyah Waters, a student at Merit America studying project management.
 - Documentation
 - Workflow organization
 
-### Portfolio Sections
+## Portfolio Sections
 This repository will contain:
 
 - Project planning exercises
 - Coursework assignments
 - Project management templates
 
-#### Career Goal
+## Career Goal
 To gain the skills and experience needed to begin a career as an entry-level project manager. 
 
-##### Projects
+## Projects
 - Office Green – Coming Soon  
 - Community Center – Coming Soon  
 - Sauce and Spoon – Coming Soon
 
-###### Contact Me
+## Contact Me
 - LinkedIn: linkedin.com/in/jekaiyah-waters-0648043aa 
 - Email: JekaiyahWaters.03@gmail.com
