@@ -4,13 +4,6 @@
 
 Hi! I'm Jekaiyah Waters, a student at Merit America studying project management. This repository contains coursework projects, planning exercises, and templates that reflect my growing skills in project planning and organization, building on my previous experience in healthcare coordination and documentation. 
 
-## Skills I'm Learning
-- Project Management Lifecycle 
-- Stakeholder Management 
-- Agile 
-- Documentation
-- Task & Workflow Management 
-
 ## Portfolio Contents 
 - Project planning exercises
 - Coursework assignments
