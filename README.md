@@ -18,4 +18,4 @@ Hi! I'm Jekaiyah Waters, a student at Merit America studying project management.
 ## Contact Me
 - LinkedIn: [https://www.linkedin.com/in/jekaiyah-waters-0648043aa/] 
 - Email: [JekaiyahWaters.03@gmail.com]
-- Canva Portfolio: 
+- Canva Portfolio: [https://jekaiyah-waters-pm-portfolio.my.canva.site/]
