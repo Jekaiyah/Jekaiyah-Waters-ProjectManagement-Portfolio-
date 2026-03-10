@@ -4,7 +4,7 @@ Welcome to my project management portfolio, showcasing my coursework, assignment
 
 # About Me
 
-![Jekaiyah Waters Headshot](IMG_8456.jpg)
+![Jekaiyah Waters Headshot](IMG_8995.jpg)
 
 Hi! I'm Jekaiyah Waters, a student at Merit America studying project management. I'm building foundational skills in planning, scheduling, risk management, and documentation. This portfolio showcases my learning journey and practice projects. Before studying project management, I gained experience in healthcare, where I coordinated patient schedules, managed documentation, and collaborated with multidisciplinary teams. These experiences helped me develop strong organizational, communication, and problem-solving skills, which I’m now applying to project management.
 
